@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Template.Light" parent="@android:style/Theme.Holo.Light">
+    </style>
+    <style name="Theme.Template" parent="@android:style/Theme.Holo">
+    </style>
+    <style name="Theme.Template.Mms" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+    </style>
+</resources>
