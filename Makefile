@@ -1,4 +1,4 @@
-pkg=TemplateTheme
+pkg=ThemeTemplate
 keystore=/home/kyle/android/laddk_relese.keystore
 alias=laddk_release
 
