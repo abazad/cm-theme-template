@@ -1,6 +1,6 @@
 pkg=ThemeTemplate
-keystore=/home/kyle/android/laddk_relese.keystore
-alias=laddk_release
+keystore=~/android/release.keystore
+alias=release
 
 
 .PHONY: clean debug release install
