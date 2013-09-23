@@ -63,7 +63,7 @@
         <echo>Optimizing theme resources</echo>
         <exec executable="./prepare-resources" failonerror="true" />
         <echo>Packaging theme resources</echo>
-        <exec executable="./aapt" failonerror="true">
+        <exec executable="${user.home}/android/system/out/host/linux-x86/bin/aapt" failonerror="true">
           <arg value="package" />
           <arg value="-f" />
           <arg value="-M" />
