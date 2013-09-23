@@ -1,6 +1,6 @@
 Sample CM-10.2 theme.
 
-** You will need the Android SDK (level 16), ant, and optionally pngcrush **
+** You will need the Android SDK (level 18), ant, rsync, and pngcrush **
 
 - Making a theme assumes some previous knowledge of how Android resources
   work. This template has a number of examples for various scenarios
