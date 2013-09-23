@@ -1,13 +1,10 @@
-Sample CM-10.1 theme.
+Sample CM-10.2 theme.
 
 ** You will need the Android SDK (level 16), ant, and optionally pngcrush **
 
 - Making a theme assumes some previous knowledge of how Android resources
   work. This template has a number of examples for various scenarios
   of resource overriding
-- A prebuilt "aapt" is included and used from build.xml. If you're the
-  paranoid kind, build your own using the CM-10.1 source tree. Standard
-  aapt will _NOT_ work.
 - The name of the theme must be wherever you find "ThemeTemplate" in here.
   (manifest, strings, themes, build.xml)
 - Edit the path to your copy of the android SDK to local.properties
