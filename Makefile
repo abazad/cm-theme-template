@@ -1,6 +1,6 @@
 pkg=ThemeTemplate
-keystore=~/android/release.keystore
-alias=release
+keystore=~/android/themes/laddk.keystore
+alias=laddk
 
 
 .PHONY: clean debug release install
@@ -17,4 +17,4 @@ install:
 	adb install -r bin/$(pkg)-debug.apk
 
 clean:
-	$(RM) bin/*.apk
+	$(RM) bin/ res-final/
